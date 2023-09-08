@@ -14,16 +14,6 @@ What can I do?
 Preview:-
 ![image](https://i.imgur.com/WxdOq6G.png)
 
-Guide:-
-`/Setup` [Admin only] (for manual setup, use `/coop panel setup`)
-![image](https://i.imgur.com/kQy6KiL.gif)
-
-Create Co-Op
-![image](https://i.imgur.com/WPfvPnf.gif)
-
-Join Co-Op
-![image](https://i.imgur.com/eYDvBhY.gif)
-
 Privacy Policy:-
 - This bot use the same request as in-game UID check, it doesn't ask for your password or any token
 - Your Genshin and Discord username can be set to private or public manually.
