@@ -13,7 +13,7 @@ The Genshin Impact Co-Op Maker for Discord
 
 ### Preview:-
 
-![Preview](https://i.imgur.com/WxdOq6G.png)
+![Preview 720p](https://github.com/FaizoKen/genshincoopbot/assets/138367568/9009f572-6853-4d78-bb15-18f779b57c04)
 
 ### Guide:-
 - `/Setup` [Admin only] (for manual setup, use `/coop panel setup`)
