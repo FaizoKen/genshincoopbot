@@ -1,4 +1,4 @@
-# genshincoopbot
+# Genshin Co-Op
 The Genshin Impact Co-Op Maker for Discord
 
 What can I do?
@@ -12,7 +12,22 @@ What can I do?
 - Many features will be added soon ...
 
 Preview:-
-![image](https://i.imgur.com/WxdOq6G.png)
+
+![Preview 720p](https://github.com/FaizoKen/genshincoopbot/assets/138367568/be4e8bfe-c46d-4652-94f8-63cf18650662)
+
+Guide:-
+`/Setup` [Admin only] (for manual setup, use `/coop panel setup`)
+
+![Setup Panel 720p](https://github.com/FaizoKen/genshincoopbot/assets/138367568/15f66230-817d-47f0-82bb-9fc48f14cdb2)
+
+Create Co-Op
+
+![Create Coop 720p](https://github.com/FaizoKen/genshincoopbot/assets/138367568/edc6fcec-8a60-4b30-a174-44e256aac973)
+
+Join Co-Op
+
+![Join Coop 720p](https://github.com/FaizoKen/genshincoopbot/assets/138367568/06f74505-c58b-4ba8-be88-22a450307a37)
+
 
 Privacy Policy:-
 - This bot use the same request as in-game UID check, it doesn't ask for your password or any token
